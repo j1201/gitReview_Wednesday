@@ -1,4 +1,3 @@
-
 # My Healthy Breakfast Club
 
 TODO: Write a club description
